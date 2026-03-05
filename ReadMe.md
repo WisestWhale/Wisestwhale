@@ -16,6 +16,4 @@ I'm currently working on API integration with AI-powered report generation, coll
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WisestWhale &icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
