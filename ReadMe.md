@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on API integration with AI-powered report generation, collaborating on a machine learning model to predict stock market trends, exploring network security, and leveling up my skills in Python and PHP (Laravel).<br>
+2nd year CS student breaking things with PHP, Python & C#. Currently teaching machines to predict stocks (they're not great at it yet). Also dabbling in network security and AI-powered apps.<br>
 
 
 ## 🌐 Socials:
